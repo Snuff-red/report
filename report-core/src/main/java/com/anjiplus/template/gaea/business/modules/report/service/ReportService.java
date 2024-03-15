@@ -7,8 +7,6 @@ import com.anjiplus.template.gaea.business.modules.report.dao.entity.Report;
 
 /**
  *
- * @author chenkening
- * @date 2021/3/26 10:35
  */
 public interface ReportService extends GaeaBaseService<ReportParam, Report> {
 

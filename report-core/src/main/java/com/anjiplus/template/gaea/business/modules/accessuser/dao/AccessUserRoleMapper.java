@@ -6,8 +6,6 @@ import org.apache.ibatis.annotations.Mapper;
 
 /**
 * AccessUser Mapper
-* @author Devli
-* @date 2019-02-17 08:50:11.902
 **/
 @Mapper
 public interface AccessUserRoleMapper extends GaeaBaseMapper<AccessUserRole> {

@@ -1,10 +1,6 @@
 <!--
- * @Descripttion: 
- * @version: 
- * @Author: yanzili
- * @Date: 2021-6-24 14:48:27
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-3-14 18:48:24
+ * @Descripttion:
+
 -->
 <template>
   <div>

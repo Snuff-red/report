@@ -22,9 +22,6 @@ import org.springframework.web.bind.annotation.*;
 
 /**
 * @desc 数据集 controller
-* @website https://gitee.com/anji-plus/gaea
-* @author Raod
-* @date 2021-03-18 12:11:31.150755900
 **/
 @RestController
 @Api(tags = "数据集管理")

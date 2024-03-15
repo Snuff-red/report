@@ -20,8 +20,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * (GaeaFile)实体类
  *
- * @author peiyanni
- * @since 2021-02-18 14:48:33
+
  */
 @RestController
 @RequestMapping("/file")

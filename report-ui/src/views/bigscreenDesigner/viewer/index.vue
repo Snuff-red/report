@@ -1,9 +1,6 @@
 <!--
  * @Descripttion: 大屏设计器 -- 预览
- * @Author: Devli
- * @Date: 2021-3-13 11:04:24
- * @Last Modified by:   Raod
- * @Last Modified time: 2022-5-6 11:04:24
+
  !-->
 <template>
   <div class="layout">

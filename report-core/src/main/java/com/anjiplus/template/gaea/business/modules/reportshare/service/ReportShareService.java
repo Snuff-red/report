@@ -8,8 +8,6 @@ import com.anjiplus.template.gaea.business.modules.reportshare.dao.entity.Report
 
 /**
 * @desc ReportShare 报表分享服务接口
-* @author Raod
-* @date 2021-08-18 13:37:26.663
 **/
 public interface ReportShareService extends GaeaBaseService<ReportShareParam, ReportShare> {
 

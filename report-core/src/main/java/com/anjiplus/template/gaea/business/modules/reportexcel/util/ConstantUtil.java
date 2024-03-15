@@ -9,9 +9,6 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 /**
- * 来自：https://github.com/mengshukeji/LuckysheetServer
- *
- * @author cr
  */
 public class ConstantUtil {
     /**

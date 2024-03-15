@@ -15,8 +15,6 @@ import java.util.Set;
 /**
 *
 * @description 数据集 dto
-* @author Raod
-* @date 2021-03-18 12:11:31.150755900
 **/
 @Data
 public class DataSetDto extends GaeaBaseDTO implements Serializable {

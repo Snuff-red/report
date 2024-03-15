@@ -9,8 +9,6 @@ import lombok.Data;
 import java.util.Date;
 /**
 * @description 报表分享 entity
-* @author Raod
-* @date 2021-08-18 13:37:26.663
 **/
 @TableName(keepGlobalPrefix=true, value="gaea_report_share")
 @Data

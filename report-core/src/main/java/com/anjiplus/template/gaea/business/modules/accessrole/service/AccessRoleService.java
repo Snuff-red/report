@@ -13,8 +13,6 @@ import java.util.Map;
 
 /**
 * @desc AccessRole 角色管理服务接口
-* @author Devli
-* @date 2019-02-17 08:50:14.136
 **/
 public interface AccessRoleService extends GaeaBaseService<AccessRoleParam, AccessRole> {
 

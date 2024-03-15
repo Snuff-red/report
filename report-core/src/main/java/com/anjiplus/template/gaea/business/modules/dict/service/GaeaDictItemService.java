@@ -9,8 +9,7 @@ import java.util.Map;
 /**
  * 数据字典项(GaeaDictItem)Service
  *
- * @author lirui
- * @since 2021-03-10 13:05:59
+
  */
 public interface GaeaDictItemService extends GaeaBaseService<GaeaDictItemParam, GaeaDictItem> {
 

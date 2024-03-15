@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 右键菜单
- * @version: 
- * @Author: qianlishi
- * @Date: 2021-10-21 15:52:03
- * @LastEditors: qianlishi
- * @LastEditTime: 2021-10-21 19:40:05
+
 -->
 <template>
   <div v-show="visible" class="contentmenu" :style="styleObj">

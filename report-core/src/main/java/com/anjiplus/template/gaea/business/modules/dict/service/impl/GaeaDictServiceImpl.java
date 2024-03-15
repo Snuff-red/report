@@ -25,8 +25,7 @@ import java.util.stream.Collectors;
 /**
  * (GaeaDict)ServiceImpl
  *
- * @author lr
- * @since 2021-02-23 10:01:02
+
  */
 @Service
 public class GaeaDictServiceImpl implements GaeaDictService {

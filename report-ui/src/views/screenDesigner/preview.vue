@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 大屏设置器
- * @version: 
- * @Author: qianlishi
- * @Date: 2022-03-14 14:05:15
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-04-28 12:23:34
+
 -->
 <template>
   <div class="layout">

@@ -5,8 +5,7 @@ import com.alibaba.fastjson.JSONObject;
 import java.util.List;
 
 /**
- * @author: Raod
- * @since: 2022-02-23
+
  */
 public interface IGroovyHandler {
 

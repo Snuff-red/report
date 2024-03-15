@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 首页
- * @version: 
- * @Author: yanzili
- * @Date: 2021-6-24 14:48:27
- * @LastEditors: qianlishi
- * @LastEditTime: 2021-12-13 09:45:44
+
 -->
 <template>
   <div class="index-container">

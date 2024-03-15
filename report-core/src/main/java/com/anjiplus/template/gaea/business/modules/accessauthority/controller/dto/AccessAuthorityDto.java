@@ -15,8 +15,6 @@ import lombok.Data;
 /**
 *
 * @description 权限管理 dto
-* @author Devli
-* @date 2019-02-17 08:50:10.009
 **/
 @Data
 public class AccessAuthorityDto extends GaeaBaseDTO implements Serializable {

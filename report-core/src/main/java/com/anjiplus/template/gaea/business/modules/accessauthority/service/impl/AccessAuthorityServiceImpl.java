@@ -25,8 +25,6 @@ import java.util.stream.Collectors;
 
 /**
 * @desc AccessAuthority 权限管理服务实现
-* @author Devli
-* @date 2019-02-17 08:50:10.009
 **/
 @Service
 public class AccessAuthorityServiceImpl implements AccessAuthorityService {

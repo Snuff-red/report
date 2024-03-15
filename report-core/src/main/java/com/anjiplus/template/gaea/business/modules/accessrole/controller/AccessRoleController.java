@@ -23,8 +23,6 @@ import java.util.Map;
 
 /**
 * @desc 角色管理 controller
-* @author Devli
-* @date 2019-02-17 08:50:14.136
 **/
 @RestController
 @Api(tags = "角色管理管理")

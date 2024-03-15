@@ -21,9 +21,6 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
 * @desc 大屏设计 controller
-* @website https://gitee.com/anji-plus/gaea
-* @author Raod
-* @date 2021-04-12 14:52:21.761
 **/
 @RestController
 @Api(tags = "大屏设计管理")

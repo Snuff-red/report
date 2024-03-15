@@ -13,9 +13,6 @@ import org.apache.poi.xssf.usermodel.XSSFColor;
 
 
 /**
- * 来自：https://github.com/mengshukeji/LuckysheetServer
- *
- * @author Administrator
  */
 @Slf4j
 public class ColorUtil {

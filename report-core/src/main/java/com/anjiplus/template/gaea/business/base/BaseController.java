@@ -9,9 +9,6 @@ import com.anji.plus.gaea.curd.params.PageParam;
 
 /**
  * 项目级的Controller公共处理基类
- *
- * @author WongBin
- * @date 2021/3/26
  */
 public abstract class BaseController<P extends PageParam, T extends BaseEntity, D extends BaseDTO>
         extends GaeaBaseController<P,T,D> {

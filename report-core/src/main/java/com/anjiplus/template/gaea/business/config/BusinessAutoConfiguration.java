@@ -11,8 +11,6 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * business配置类
- * @author lr
- * @since 2021-04-08
  */
 @Configuration
 @MapperScan(basePackages = {

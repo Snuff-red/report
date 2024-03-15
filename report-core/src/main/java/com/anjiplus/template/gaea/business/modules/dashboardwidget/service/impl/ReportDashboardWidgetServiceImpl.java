@@ -11,8 +11,6 @@ import com.anjiplus.template.gaea.business.modules.dashboardwidget.service.Repor
 import com.anjiplus.template.gaea.business.modules.dashboardwidget.dao.ReportDashboardWidgetMapper;
 /**
 * @desc ReportDashboardWidget 大屏看板数据渲染服务实现
-* @author Raod
-* @date 2021-04-12 15:12:43.724
 **/
 @Service
 //@RequiredArgsConstructor

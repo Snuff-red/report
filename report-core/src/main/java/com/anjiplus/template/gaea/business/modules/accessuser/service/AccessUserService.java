@@ -12,8 +12,6 @@ import java.util.Map;
 
 /**
 * @desc AccessUser 用户管理服务接口
-* @author Devli
-* @date 2019-02-17 08:50:11.902
 **/
 public interface AccessUserService extends GaeaBaseService<AccessUserParam, AccessUser> {
 

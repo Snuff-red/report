@@ -1,9 +1,6 @@
  <!--
- * @Descripttion: 
- * @Author: qianlishi
- * @Date: 2021-8-4 10:17:24
- * @Last Modified by:   qianlishi
- * @Last Modified time: 2022-5-14 11:20:24
+ * @Descripttion:
+
  !-->
 <template>
   <div class="uploadImage">

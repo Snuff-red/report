@@ -1,8 +1,4 @@
 <!--
- * @Author: qianlishi qianlishi@anji-plus.com
- * @Date: 2023-03-06 15:38:10
- * @LastEditors: qianlishi qianlishi@anji-plus.com
- * @LastEditTime: 2023-04-20 13:54:57
 -->
 <template>
   <el-date-picker

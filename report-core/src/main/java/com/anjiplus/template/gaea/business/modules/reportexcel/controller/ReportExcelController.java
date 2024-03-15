@@ -18,8 +18,6 @@ import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @author chenkening
- * @date 2021/4/13 15:12
  */
 @RestController
 @Api(tags = "报表表格管理")

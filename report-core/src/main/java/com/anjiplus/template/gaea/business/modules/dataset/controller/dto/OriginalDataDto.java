@@ -7,7 +7,6 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by raodeming on 2021/3/26.
  */
 @Data
 public class OriginalDataDto implements Serializable {

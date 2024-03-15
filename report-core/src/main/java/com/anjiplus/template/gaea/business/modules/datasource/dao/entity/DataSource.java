@@ -10,8 +10,7 @@ import lombok.Data;
 
 /**
 * @description 数据源 entity
-* @author Raod
-* @date 2021-03-18 12:09:57.728203200
+
 **/
 @TableName(keepGlobalPrefix=true, value="gaea_report_data_source")
 @Data

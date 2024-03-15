@@ -7,8 +7,6 @@ import org.springframework.context.i18n.LocaleContextHolder;
 
 /**
  * 项目级的Service公共处理基类
- * @author WongBin
- * @date 2021/3/26
  */
 public interface BaseService<P extends PageParam, T extends BaseEntity> extends GaeaBaseService<P, T> {
 

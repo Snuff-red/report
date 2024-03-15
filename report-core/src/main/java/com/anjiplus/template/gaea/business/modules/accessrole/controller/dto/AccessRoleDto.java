@@ -16,8 +16,6 @@ import lombok.Data;
 /**
 *
 * @description 角色管理 dto
-* @author Devli
-* @date 2019-02-17 08:50:14.136
 **/
 @Data
 public class AccessRoleDto extends GaeaBaseDTO implements Serializable {

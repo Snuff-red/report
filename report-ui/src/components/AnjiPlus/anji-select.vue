@@ -1,9 +1,6 @@
 <!--
- * @Descripttion: 
- * @Author: Devli
- * @Date: 2021-7-17 10:42:24
- * @Last Modified by:   qianlishi
- * @Last Modified time: 2023-1-10 13:04:24
+ * @Descripttion:
+
  !-->
 <!--element下拉列表封装
   使用：

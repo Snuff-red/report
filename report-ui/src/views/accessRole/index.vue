@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 用户权限--角色管理
- * @version: 
- * @Author: Devli
- * @Date: 2021-7-17 10:46:27
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-3-9 10:53:57
+
 -->
 <template>
   <anji-crud ref="listPage" :option="crudOption">

@@ -15,8 +15,6 @@ import java.util.Date;
 /**
 *
 * @description 报表分享 dto
-* @author Raod
-* @date 2021-08-18 13:37:26.663
 **/
 @Data
 public class ReportShareDto extends GaeaBaseDTO implements Serializable {

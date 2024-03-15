@@ -19,9 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
 * @desc 数据集动态参数 controller
-* @website https://gitee.com/anji-plus/gaea
-* @author Raod
-* @date 2021-03-18 12:12:33.108033200
 **/
 @RestController
 @Api(tags = "数据集动态参数管理")

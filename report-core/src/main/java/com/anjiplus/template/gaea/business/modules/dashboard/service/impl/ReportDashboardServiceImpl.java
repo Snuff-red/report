@@ -57,8 +57,6 @@ import java.util.concurrent.CompletableFuture;
 
 /**
  * @author Raod
- * @desc ReportDashboard 大屏设计服务实现
- * @date 2021-04-12 14:52:21.761
  **/
 @Service
 @Slf4j

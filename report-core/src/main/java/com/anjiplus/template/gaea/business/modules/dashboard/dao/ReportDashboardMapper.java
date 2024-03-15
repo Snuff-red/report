@@ -7,8 +7,6 @@ import com.anjiplus.template.gaea.business.modules.dashboard.dao.entity.ReportDa
 
 /**
 * ReportDashboard Mapper
-* @author Raod
-* @date 2021-04-12 14:52:21.761
 **/
 @Mapper
 public interface ReportDashboardMapper extends GaeaBaseMapper<ReportDashboard> {

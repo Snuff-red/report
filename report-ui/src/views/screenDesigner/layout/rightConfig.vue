@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 大屏右侧配置
- * @version: 
- * @Author: qianlishi
- * @Date: 2022-05-12 11:05:54
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-05-14 11:52:30
+
 -->
 <template>
   <div class="layout-right">

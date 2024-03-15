@@ -1,9 +1,6 @@
 <!--
- * @Descripttion: 
- * @Author: qianlishi
- * @Date: 2021-12-13 10:42:24
- * @Last Modified by:   qianlishi
- * @Last Modified time: 2022-5-4 10:04:24
+ * @Descripttion:
+
  !-->
 <template>
   <el-checkbox-group v-model="selectValue" class="filter-item" @change="change">

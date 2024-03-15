@@ -11,8 +11,7 @@ import java.io.Serializable;
 /**
  * 数据字典项(GaeaDictItem)param
  *
- * @author lirui
- * @since 2021-03-10 13:05:59
+
  */
 @Data
 public class GaeaDictItemParam extends PageParam implements Serializable {

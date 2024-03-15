@@ -25,8 +25,7 @@ import java.util.stream.Collectors;
 /**
  * 数据字典项(GaeaDictItem)ServiceImpl
  *
- * @author lirui
- * @since 2021-03-10 13:05:59
+
  */
 @Service
 public class GaeaDictItemServiceImpl implements GaeaDictItemService {

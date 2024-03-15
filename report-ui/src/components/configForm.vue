@@ -7,9 +7,7 @@
  <!--
  * @Descripttion: 动态表单组件
  * @Author: Devli
- * @Date: 2021-2-10 10:17:24
- * @Last Modified by:   yanzili
- * @Last Modified time: 2021-6-24 11:20:24
+
  !-->
 <template>
 <span>
@@ -47,7 +45,7 @@ export default {
   watch: {
     value(newValue, oldValue) {
       if ( typeof newValue == "string") {
-        // 传string进来 表示编辑进来 重新赋值给 
+        // 传string进来 表示编辑进来 重新赋值给
         setTimeout(()=>{   //保证动态select 渲染完成再赋值
           this.ConfigData = JSON.parse(newValue || "{}")
         },10)
@@ -77,8 +75,8 @@ export default {
       }else{
         this.$set(ConfigData,key,val);
       }
-      this.$emit('input', ConfigData) 
-      this.$emit('myChanged', ConfigData) 
+      this.$emit('input', ConfigData)
+      this.$emit('myChanged', ConfigData)
     },
 
     //重新选择了 数据连接类型 就重置输入框的值

@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 系统设置--数字字典
- * @version: 
- * @Author: Raod
- * @Date: 2021-12-11 14:48:27
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-3-9 14:59:53
+
 -->
 <template>
   <anji-crud ref="listPage" :option="crudOption">

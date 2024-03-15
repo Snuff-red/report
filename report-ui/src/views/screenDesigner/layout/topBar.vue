@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 大屏顶部操操按钮
- * @version: 
- * @Author: qianlishi
- * @Date: 2022-05-14 11:54:07
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-05-14 12:52:58
+
 -->
 <template>
   <!-- 操作栏 -->

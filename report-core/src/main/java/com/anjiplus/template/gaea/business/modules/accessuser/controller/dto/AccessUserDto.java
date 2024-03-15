@@ -16,8 +16,6 @@ import java.util.List;
 /**
 *
 * @description 用户管理 dto
-* @author Devli
-* @date 2019-02-17 08:50:11.902
 **/
 @Data
 public class AccessUserDto extends GaeaBaseDTO implements Serializable {

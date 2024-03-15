@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 大屏设计器
- * @version: 
- * @Author: qianlishi
- * @Date: 2022-05-12 11:05:48
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-05-21 14:47:00
+
 -->
 <template>
   <div

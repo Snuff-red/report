@@ -12,8 +12,6 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 /**
 * AccessUser Mapper
-* @author Devli
-* @date 2019-02-17 08:50:11.902
 **/
 @Mapper
 public interface AccessUserMapper extends GaeaBaseMapper<AccessUser> {

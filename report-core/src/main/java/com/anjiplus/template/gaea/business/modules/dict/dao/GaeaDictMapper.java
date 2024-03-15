@@ -7,8 +7,7 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * (GaeaDict)Mapper
  *
- * @author lr
- * @since 2021-02-23 10:01:02
+
  */
 @Mapper
 public interface GaeaDictMapper extends GaeaBaseMapper<GaeaDict> {

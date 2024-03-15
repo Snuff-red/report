@@ -22,10 +22,6 @@ import java.io.OutputStream;
 import java.util.*;
 
 /**
- * 来自：https://github.com/mengshukeji/LuckysheetServer
- * 使用poi导出xls
- *
- * @author Administrator
  */
 public class XlsUtil {
 

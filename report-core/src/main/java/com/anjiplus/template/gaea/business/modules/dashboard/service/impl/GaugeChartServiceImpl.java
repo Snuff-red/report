@@ -9,7 +9,6 @@ import java.util.List;
 
 /**
  * 饼图或者空心饼图或者漏斗图
- * Created by raodeming on 2021/4/26.
  */
 @Component
 public class GaugeChartServiceImpl implements ChartStrategy {

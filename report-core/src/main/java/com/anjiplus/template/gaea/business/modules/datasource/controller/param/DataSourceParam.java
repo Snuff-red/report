@@ -11,8 +11,7 @@ import java.io.Serializable;
 
 /**
 * @desc DataSource 数据集查询输入类
-* @author Raod
-* @date 2021-03-18 12:09:57.728203200
+
 **/
 @Data
 public class DataSourceParam extends PageParam implements Serializable{

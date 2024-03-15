@@ -26,8 +26,6 @@ import java.util.Map;
 
 /**
 * @desc 权限管理 controller
-* @author Devli
-* @date 2019-02-17 08:50:10.009
 **/
 @RestController
 @Api(tags = "权限管理管理")

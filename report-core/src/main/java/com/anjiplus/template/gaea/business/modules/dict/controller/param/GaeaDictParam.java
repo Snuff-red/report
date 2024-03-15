@@ -11,8 +11,7 @@ import java.io.Serializable;
 /**
  * (GaeaDict)param
  *
- * @author lr
- * @since 2021-02-23 10:01:02
+
  */
 @Data
 public class GaeaDictParam extends PageParam implements Serializable {

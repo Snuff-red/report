@@ -11,8 +11,6 @@ import java.io.Serializable;
 
 /**
  * @author Raod
- * @desc ReportShare 报表分享查询输入类
- * @date 2021-08-18 13:37:26.663
  **/
 @Data
 public class ReportShareParam extends PageParam implements Serializable {

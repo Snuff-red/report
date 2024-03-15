@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 import java.util.Map;
 
 /**
- * Created by raodeming on 2021/3/24.
+
  */
 @Component
 @ConfigurationProperties(prefix = "spring.http-client.pool")

@@ -24,8 +24,6 @@ import org.springframework.stereotype.Service;
 
 /**
 * @desc ReportShare 报表分享服务实现
-* @author Raod
-* @date 2021-08-18 13:37:26.663
 **/
 @Service
 public class ReportShareServiceImpl implements ReportShareService {

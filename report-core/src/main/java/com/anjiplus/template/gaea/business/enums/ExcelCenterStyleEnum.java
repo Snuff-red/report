@@ -1,9 +1,6 @@
 package com.anjiplus.template.gaea.business.enums;
 
 /**
- * @author zhouhang
- * @description EXCEL居中方式
- * @date 2021/4/26
  */
 public enum ExcelCenterStyleEnum {
     /**

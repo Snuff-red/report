@@ -6,7 +6,7 @@ import javax.validation.constraints.NotBlank;
 import java.io.Serializable;
 
 /**
- * Created by raodeming on 2021/3/19.
+
  */
 @Data
 public class ConnectionParam implements Serializable {

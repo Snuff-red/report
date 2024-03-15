@@ -12,8 +12,6 @@ import java.util.List;
 /**
 *
 * @description 大屏设计 dto
-* @author Raod
-* @date 2021-04-12 14:52:21.761
 **/
 @Data
 public class ReportDashboardDto extends GaeaBaseDTO implements Serializable {

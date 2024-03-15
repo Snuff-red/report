@@ -13,8 +13,7 @@ import java.io.File;
 /**
  * (GaeaFile)Service
  *
- * @author peiyanni
- * @since 2021-02-18 14:48:25
+
  */
 public interface GaeaFileService extends GaeaBaseService<GaeaFileParam, GaeaFile> {
 

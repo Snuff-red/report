@@ -7,7 +7,6 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by raodeming on 2021/8/6.
  */
 @Component
 @ConfigurationProperties(prefix = "spring.datasource.hikari")

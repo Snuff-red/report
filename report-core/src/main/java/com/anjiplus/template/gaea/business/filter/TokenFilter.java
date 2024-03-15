@@ -30,8 +30,6 @@ import static com.anji.plus.gaea.constant.GaeaConstant.URL_REPLACEMENT;
 
 /**
  * 简单的鉴权
- * @author raodeming
- * @date 2021/6/24.
  */
 @Component
 @Order(Integer.MIN_VALUE + 99)

@@ -10,8 +10,7 @@ import java.io.Serializable;
 /**
  * 数据字典项(GaeaDictItem)实体类
  *
- * @author lirui
- * @since 2021-03-10 13:05:59
+
  */
 @ApiModel(value = "数据字典项")
 @Data

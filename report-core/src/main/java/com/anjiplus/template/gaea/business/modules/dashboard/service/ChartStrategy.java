@@ -6,7 +6,6 @@ import com.anjiplus.template.gaea.business.modules.dashboard.controller.dto.Char
 import java.util.List;
 
 /**
- * Created by raodeming on 2021/4/26.
  */
 public interface ChartStrategy {
 

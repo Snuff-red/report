@@ -8,8 +8,6 @@ import org.springframework.boot.ApplicationRunner;
 
 /**
  * @desc 启动加载器
- * @author WongBin <abc13579d@163.com>
- * @date 2019-02-17 08:50:10.009
  **/
 public class ApplicationInitRunner implements ApplicationRunner {
 

@@ -25,8 +25,6 @@ import java.util.stream.Collectors;
 
 /**
 * @desc AccessRole 角色管理服务实现
-* @author Devli
-* @date 2019-02-17 08:50:14.136
 **/
 @Service
 public class AccessRoleServiceImpl implements AccessRoleService {

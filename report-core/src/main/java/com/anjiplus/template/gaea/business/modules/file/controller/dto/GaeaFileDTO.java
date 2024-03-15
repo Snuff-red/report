@@ -8,8 +8,7 @@ import lombok.Data;
 /**
  * (GaeaFile)实体类
  *
- * @author peiyanni
- * @since 2021-02-18 14:48:27
+
  */
 @Data
 public class GaeaFileDTO extends GaeaBaseDTO {

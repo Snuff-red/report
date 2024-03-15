@@ -12,8 +12,7 @@ import java.io.Serializable;
 /**
  * 数据字典项(GaeaDictItem)实体类
  *
- * @author lirui
- * @since 2021-03-09 15:52:41
+
  */
 @TableName(keepGlobalPrefix=true,value = "gaea_dict_item")
 @UnionUniqueCode(group = BusinessConstant.DICT_ITEM_EXIST_GROUP, code = ResponseCode.DICT_ITEM_REPEAT)

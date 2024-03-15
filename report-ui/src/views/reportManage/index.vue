@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 报表设计--报表管理
- * @version:
- * @Author: yanzili
- * @Date: 2021-6-24 14:48:27
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-05-17 17:38:44
+
 -->
 <template>
   <anji-crud ref="listPage" :option="crudOption">

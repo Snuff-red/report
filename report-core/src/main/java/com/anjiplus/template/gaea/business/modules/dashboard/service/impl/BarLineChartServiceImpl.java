@@ -9,7 +9,6 @@ import java.util.List;
 
 /**
  * 折柱图
- * Created by raodeming on 2021/4/26.
  */
 @Component
 public class BarLineChartServiceImpl implements ChartStrategy {

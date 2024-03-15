@@ -8,8 +8,6 @@ import lombok.Data;
 
 /**
 * @description 数据集动态参数 entity
-* @author Raod
-* @date 2021-03-18 12:12:33.108033200
 **/
 @TableName(keepGlobalPrefix=true, value="gaea_report_data_set_param")
 @Data

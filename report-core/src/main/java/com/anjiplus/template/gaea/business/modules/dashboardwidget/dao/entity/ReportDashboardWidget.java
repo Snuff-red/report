@@ -8,8 +8,6 @@ import lombok.Data;
 
 /**
 * @description 大屏看板数据渲染 entity
-* @author Raod
-* @date 2021-04-12 15:12:43.724
 **/
 @TableName(keepGlobalPrefix=true, value="gaea_report_dashboard_widget")
 @Data

@@ -8,8 +8,6 @@ import javax.validation.constraints.*;
 import java.util.Date;
 /**
 * @description 用户管理 entity
-* @author Devli
-* @date 2019-02-17 08:50:11.902
 **/
 @TableName(keepGlobalPrefix=true, value="access_user")
 @Data

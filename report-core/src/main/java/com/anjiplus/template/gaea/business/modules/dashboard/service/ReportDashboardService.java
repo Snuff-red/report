@@ -14,8 +14,6 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
 * @desc ReportDashboard 大屏设计服务接口
-* @author Raod
-* @date 2021-04-12 14:52:21.761
 **/
 public interface ReportDashboardService extends GaeaBaseService<ReportDashboardParam, ReportDashboard> {
 

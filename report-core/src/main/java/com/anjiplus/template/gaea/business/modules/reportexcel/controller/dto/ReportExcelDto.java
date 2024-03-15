@@ -9,8 +9,6 @@ import java.util.List;
 
 
 /**
- * @author chenkening
- * @date 2021/4/13 15:12
  */
 @Data
 public class ReportExcelDto extends GaeaBaseDTO implements Serializable {

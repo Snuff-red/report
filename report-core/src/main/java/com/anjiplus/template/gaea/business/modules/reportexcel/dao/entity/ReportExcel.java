@@ -6,8 +6,6 @@ import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 
 /**
- * @author chenkening
- * @date 2021/4/13 15:11
  */
 @TableName(value = "gaea_report_excel")
 @Data

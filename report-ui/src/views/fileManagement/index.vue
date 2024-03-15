@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 系统设置--文件管理
- * @version: 
- * @Author: Raod
- * @Date: 2021-8-4 14:48:27
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-03-09 09:57:17
+
 -->
 <template>
   <anji-crud ref="listPage" :option="crudOption">

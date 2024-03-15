@@ -1,10 +1,6 @@
 <!--
- * @Descripttion: 
- * @version:
- * @Author: Devli
- * @Date: 2021-7-18 18:19:27
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-8-5 13:31:44
+ * @Descripttion:
+
 -->
 <template>
   <el-dialog

@@ -16,8 +16,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * TODO
  *
- * @author chenkening
- * @date 2021/3/26 10:19
  */
 @RestController
 @Api(tags = "报表数据管理")

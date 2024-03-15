@@ -8,8 +8,6 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
  * 业务模板
- * @author lr
- * @since 2021-02-03
  */
 @EnabledGaeaConfiguration
 @SpringBootApplication(scanBasePackages = {

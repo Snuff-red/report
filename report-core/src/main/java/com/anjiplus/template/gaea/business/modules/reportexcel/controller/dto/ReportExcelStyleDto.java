@@ -8,8 +8,6 @@ import java.io.Serializable;
 
 
 /**
- * @author chenxg
- * @date 2023/8/1 10:37
  */
 @Data
 public class ReportExcelStyleDto extends GaeaBaseDTO implements Serializable {

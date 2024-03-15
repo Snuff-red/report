@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 登录
- * @version:
- * @Author: qianlishi
- * @Date: 2021-12-11 14:48:27
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-06-23 17:23:23
+
 -->
 <template>
   <div class="login_container">

@@ -1,10 +1,6 @@
 <!--
  * @Descripttion: 大屏左侧工具栏
- * @version: 
- * @Author: qianlishi
- * @Date: 2022-05-12 11:05:21
- * @LastEditors: qianlishi
- * @LastEditTime: 2022-06-17 17:26:22
+
 -->
 <template>
   <el-tabs class="layout-left" type="border-card">
