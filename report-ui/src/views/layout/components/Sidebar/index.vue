@@ -2,7 +2,7 @@
   <el-scrollbar wrap-class="scrollbar-wrapper">
     <div class="admin-title" @click="goBigScreen">
       <div class="con">
-        <img src="../../../../../static/logo-dp.png" width="50" />
+        <img src="../../../../../static/logo2.png" width="50" />
         <span class="version">V1.3.0</span>
       </div>
     </div>
